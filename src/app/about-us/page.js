@@ -45,18 +45,19 @@ export default function AboutUs() {
 					<div className="col-lg-12">
 						<div className="dreamit-section-title text-left">
 							<h5>About</h5>
-							<h2>20 Years Experience In The</h2>
-							<h2>Handyman <span>& Plumber</span></h2>
+							<h2>20+ Years of Expert Home Repair </h2>
+							<h2>&<span> Electrical Services </span></h2>
 							<div className="em_bar_bg text-left"></div>
-							<p>Proin gravida nibh vel velit auctor aliquet. sollicitudi lorem quis bibendum auctor, nisi elit consequat ipsum, sagittis sem nibh elit veniam, quis nostrud exercitation</p>
+							<p> For over two decades, we have been providing reliable plumbing, electrical, and handyman services to homeowners and businesses in [City/Region]. Our certified technicians are trained to handle everything from small home repairs to large-scale installations with professionalism and care.</p>
+							<p>We pride ourselves on delivering top-quality workmanship, fast response times, and fair pricing. Whether it’s an urgent repair, preventive maintenance, or a complete installation, our team ensures your home and office remain safe, comfortable, and fully functional.</p>
 						</div>
 					</div>
 					<div className="col-lg-6 col-sm-12">
 						<div className="elementor-widget-icon-box">
 							<i className="flaticon-window-cleaner"></i>
 							<div className="elementor-widget-title">
-								<h2>Cleaning Services</h2>
-								<p>There many variations of passages of Lorem</p>
+								<h2>The Best Quality Services</h2>
+								<p>Guaranteed satisfaction on every job.</p>
 							</div>
 						</div>
 					</div>
@@ -64,8 +65,8 @@ export default function AboutUs() {
 						<div className="elementor-widget-icon-box">
 							<i className="flaticon-electrician-4"></i>
 							<div className="elementor-widget-title">
-								<h2>Roof Services</h2>
-								<p>There many variations of passages of Lorem</p>
+								<h2>Warranty & Maintenance</h2>
+								<p>All services backed by warranty and ongoing support.</p>
 							</div>
 						</div>
 					</div>
@@ -73,8 +74,8 @@ export default function AboutUs() {
 						<div className="elementor-widget-icon-box">
 							<i className="flaticon-electrician-7"></i>
 							<div className="elementor-widget-title">
-								<h2>Electrician Service</h2>
-								<p>There many variations of passages of Lorem</p>
+								<h2>Skilled & Certified Experts</h2>
+								<p>Licensed electricians, plumbers, and handymen.</p>
 							</div>
 						</div>
 						<div className="dreamit-button">
@@ -85,8 +86,8 @@ export default function AboutUs() {
 						<div className="elementor-widget-icon-box">
 							<i className="flaticon-electrician-6"></i>
 							<div className="elementor-widget-title">
-								<h2>Quality Services</h2>
-								<p>There many variations of passages of Lorem</p>
+								<h2>Transparent Pricing</h2>
+								<p>No hidden costs, clear upfront quotes.</p>
 							</div>
 						</div>
 					</div>
@@ -103,7 +104,7 @@ export default function AboutUs() {
 <!-- Start dreamit service Area -->
 <!--==================================================-->  */}
 
-<div className="service-area style-seven">
+{/* <div className="service-area style-seven">
 	<div className="container">
 		<div className="row">
 			<div className="col-lg-4 col-md-6 col-sm-12">
@@ -147,7 +148,7 @@ export default function AboutUs() {
 			</div>
 		</div>
 	</div>
-</div>
+</div> */}
 {/* <!--==================================================-->
 <!-- End dreamit service Area -->
 <!--==================================================-->
