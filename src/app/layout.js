@@ -136,11 +136,12 @@ export default function RootLayout({ children }) {
 						
 						<li><Link href="">Services <span><i className="fas fa-angle-down"></i></span></Link>
 							<ul className="sub-menu">
-								<li><Link href="/service/ac-installation-and-replacement">AC Installation & Replacement</Link></li>
-								<li><Link href="/service/ac-repair-and-emergency-services">AC Repair & Emergency Services</Link></li>
-								<li><Link href="/service/ac-maintenance-and-amc-contracts">AC Maintenance & AMC Contracts</Link></li>
-                                <li><Link href="/service/residential-hvac-services">Residential HVAC Services</Link></li>
-								<li><Link href="/service/commercial-hvac-services">Commercial HVAC Services</Link></li>
+								<li><Link href="/service/electrical-repairs-and-maintenance-dubai">Electrical Repairs & Maintenance Dubai</Link></li>
+								<li><Link href="/service/electrical-installations">Electrical Installations</Link></li>
+								<li><Link href="/service/emergency-electrician">Emergency Electrician (24/7 Service)</Link></li>
+								<li><Link href="/service/residential-electrical-services">Residential Electrical Services</Link></li>
+                                <li><Link href="/service/wiring-and-rewiring-services">Wiring & Rewiring Services</Link></li>
+								<li><Link href="/service/commercial-and-industrial-electrical-services">Commercial & Industrial Electrical Services</Link></li>
 							</ul>
 						</li>
 						

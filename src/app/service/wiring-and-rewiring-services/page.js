@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 
-export default function CommercialHVACServices() {
+export default function ACMaintenanceAndAMCContracts() {
   return (
     <>
 <div className="breatcumb-area d-flex align-items-center">
@@ -11,11 +11,11 @@ export default function CommercialHVACServices() {
             <div className="col-lg-12">
                 <div className="breatcumb-content text-center">
                     <div className="breatcumb-title">
-                        <h2>Commercial HVAC Services</h2>
+                        <h2>Wiring & Rewiring Services</h2>
                     </div>
                     <div className="breatcumb-content-text">
                         <ul>
-                            <li><Link href="/">home</Link> <i className="fas fa-angle-right"></i> <span>Commercial HVAC Services</span></li>
+                            <li><Link href="/">home</Link> <i className="fas fa-angle-right"></i> <span>AC Maintenance & AMC Contracts</span></li>
                         </ul>
                     </div>	
                 </div>
@@ -40,21 +40,21 @@ export default function CommercialHVACServices() {
                     <img src="/assets/images/slider/slider7.png" alt="" className="w-100"/>
                     
                     <div className="elementor-widget-title1 mt-5">
-                        <h2 className="main_heading">Commercial HVAC Services</h2>
-                        <h4 className="sub_heading">1.Expert Commercial HVAC Installation</h4>
+                        <h2 className="main_heading">Wiring & Rewiring Services</h2>
+                        <h4 className="sub_heading">1. Safe and Reliable New Wiring Installations</h4>
 
-        <p className="my-4">Every business requires a reliable HVAC system to maintain a comfortable environment for employees, clients, and visitors. Our commercial HVAC installation services are tailored to offices, retail shops, restaurants, warehouses, and other large facilities across Dubai. From commercial cooling services to complete air conditioning and heating setups, we design and install solutions that match your business requirements. </p>
-        <p className="my-4">Whether you need a compact system for a small office or a large-scale unit for an industrial facility, our technicians ensure precision installation, efficient ductwork, and proper airflow management. By integrating advanced technologies such as energy-efficient units and smart thermostats, we help businesses reduce energy costs while maintaining consistent comfort. With our expertise, you can rely on a system that performs reliably under demanding conditions and supports uninterrupted business operations.</p>
+        <p className="my-4">Wiring is the heart of any electrical system, and we specialize in new home wiring and office electrical wiring that complies with DEWA standards. By carefully designing and installing new systems, we ensure your property has the electrical backbone it needs for safe and efficient operation.</p>
+        {/* <p className="my-4">From inspecting electrical components and checking refrigerant levels to lubricating moving parts and testing airflow, our technicians leave no detail overlooked. Whether it’s for a residential property or a large commercial building, our maintenance services ensure your AC delivers consistent cooling even during the peak of summer.</p> */}
 
-				<h4 className="sub_heading">2.Professional Commercial HVAC Repair Services</h4>
+				<h4 className="sub_heading">2. Professional Electrical Rewiring Services</h4>
 
-				<p className="my-4">HVAC failures in commercial settings can disrupt productivity, affect customer experience, and even lead to costly downtime. That’s why our commercial HVAC repair and industrial HVAC repair services are fast, reliable, and tailored to the needs of different businesses. We handle everything from cooling failures and poor ventilation to thermostat problems, leaking ducts, and malfunctioning compressors. Our skilled technicians provide accurate diagnostics and targeted solutions, ensuring that issues are resolved quickly and effectively.</p>
-                <p className="my-4">For industrial facilities, we specialize in handling heavy-duty equipment and large-capacity systems, offering repair solutions that restore performance without compromising safety. Whether it’s a small fault or a major breakdown, our team is equipped to provide immediate and long-lasting repairs, helping you maintain a comfortable and productive workspace.</p>
+				<p className="my-4">Outdated or damaged wiring can lead to dangerous issues like electrical fires or frequent power failures. Our electrical rewiring service replaces old systems with modern, high-capacity wiring designed to handle today’s energy needs. Whether it’s an older home or a commercial property, our electrical rewiring services provide long-term safety, stability, and efficiency.</p>
+                {/* <p className="my-4">Our AMC packages also include AC filter cleaning Dubai, coil washing, thermostat calibration, and efficiency checks to keep your unit running smoothly. With our annual maintenance contracts, you can avoid emergency repairs, lower utility bills, and ensure a comfortable indoor environment all year round.</p> */}
                     
-                    <h4 className="sub_heading">3.Complete Commercial HVAC Maintenance Solutions</h4>
+                    <h4 className="sub_heading">3. Trusted Electrical Wiring Contractors in Dubai</h4>
 
-                    <p className="my-4">Regular servicing is essential to keep your commercial HVAC systems running efficiently and to avoid unexpected breakdowns. Our commercial HVAC maintenance packages are designed to keep systems in peak condition with routine inspections, cleaning, and testing. Services include checking filters, inspecting ductwork, calibrating thermostats, monitoring refrigerant levels, and ensuring all electrical components are functioning properly. We also provide commercial heating services and commercial air conditioning services, making sure your system performs well year-round. </p>
-                    <p className="my-4">For warehouses, retail outlets, and offices, preventive maintenance reduces energy costs, improves air quality, and ensures compliance with safety standards. Our dedicated team works around your schedule to minimize disruption, offering flexible contracts and ongoing support. With our proactive approach, businesses can enjoy uninterrupted comfort, reduced repair costs, and extended equipment lifespan.</p>
+                    <p className="my-4">As leading providers of electrical wiring service in Dubai, we are trusted by homeowners, businesses, and contractors alike. From fixing small faults to executing full rewiring projects, our electricians deliver precision, compliance, and long-lasting quality. With high-grade materials and professional expertise, we guarantee that your wiring systems will perform reliably under all conditions.</p>
+                    {/* <p className="my-4">In addition to ducts, we provide AC filter cleaning, ensuring your system circulates clean, fresh air. Our HVAC duct cleaning Dubai team caters to residential apartments, villas, and large commercial facilities, improving indoor air quality while boosting the overall performance of your cooling system. By combining duct cleaning with regular maintenance, we create a safer, healthier, and more energy-efficient environment for your home or business.</p> */}
 
                     
                     </div>

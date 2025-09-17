@@ -11,7 +11,7 @@ export default function ACRepairAndEmergencyServices() {
             <div className="col-lg-12">
                 <div className="breatcumb-content text-center">
                     <div className="breatcumb-title">
-                        <h2>AC Repair & Emergency Services</h2>
+                        <h2>Electrical Installations</h2>
                     </div>
                     <div className="breatcumb-content-text">
                         <ul>
@@ -40,21 +40,21 @@ export default function ACRepairAndEmergencyServices() {
                     <img src="/assets/images/slider/slider7.png" alt="" className="w-100"/>
                     
                     <div className="elementor-widget-title1 mt-5">
-                        <h2 className="main_heading">AC Repair & Emergency Services</h2>
-                        <h4 className="sub_heading">1.Professional AC Repair Services in Dubai</h4>
+                        <h2 className="main_heading">Electrical Installations</h2>
+                        <h4 className="sub_heading">1. Professional Electrical Installation Services</h4>
 
-        <p className="my-4">Air conditioners are essential in Dubai’s climate, but even the best systems can face breakdowns or performance issues over time. Our AC repair Dubai services cover everything from minor faults to major malfunctions, ensuring your cooling system is restored quickly and efficiently. Whether it’s poor cooling, unusual noises, leaks, or electrical faults, our AC repair service is designed to identify and resolve the root cause.</p>
-        <p className="my-4">We handle residential AC repair for apartments and villas, as well as commercial AC repair for offices, restaurants, and retail spaces. Every repair includes a detailed inspection, part replacement if needed, and system testing to ensure long-lasting performance.</p>
+        <p className="my-4">Our electrical installation services cover every type of property, from small homes to large commercial complexes. We install new wiring systems, distribution boards, switchboards, and essential fixtures with precision. Our team ensures each installation follows DEWA compliance, providing a safe and reliable foundation for your electrical system.</p>
+        <p className="my-4">We pride ourselves on creating electrical setups that are not only functional but also future-ready, capable of supporting modern technologies and energy-saving upgrades.</p>
 
-				<h4 className="sub_heading">2.Emergency AC Repair Services, Available 24/7</h4>
+				<h4 className="sub_heading">2. Lighting Installation for Homes and Businesses</h4>
 
-				<p className="my-4">Air conditioning problems don’t wait for a convenient time, which is why we provide emergency AC repair Dubai services around the clock. Our 24/7 AC repair services are ideal for urgent situations like complete system breakdowns, sudden power failures, or AC units blowing hot air in the peak of summer. With a dedicated team of technicians on standby, we ensure fast response times and effective solutions whenever you need them most.</p>
-                <p className="my-4">From quick AC troubleshooting to complex emergency repairs, our experts arrive fully equipped to restore your cooling system without unnecessary delays. Whether day or night, our emergency AC repair solutions prioritize your comfort and safety.</p>
+				<p className="my-4">Lighting is central to the comfort, security, and design of any property. Our services include indoor lighting installation for homes, offices, and retail spaces, as well as outdoor lighting installation for gardens, parking areas, and building exteriors. We also specialize in LED lighting upgrades, helping property owners reduce energy consumption while enhancing aesthetics.</p>
+                <p className="my-4">In addition, we provide ceiling fan installation services and exhaust fan installation electrician solutions, ensuring proper ventilation and comfort indoors. Whether for ambiance, security, or energy savings, our lighting and installation solutions are tailored to meet your specific requirements.</p>
                     
-                    <h4 className="sub_heading">3.Comprehensive AC Repair & Troubleshooting Solutions</h4>
+                    <h4 className="sub_heading">3. Complete Electrical Installations Tailored to Your Needs</h4>
 
-                    <p className="my-4">Our repair services go beyond quick fixes; we focus on delivering complete AC solutions that keep your system running reliably. With specialized expertise in AC troubleshooting, we diagnose recurring issues and provide targeted repairs that prevent future breakdowns. For homeowners, this means consistent cooling and energy savings. For businesses, it means uninterrupted comfort for staff and customers.</p>
-                    <p className="my-4">Our team also offers preventive checks during repairs, ensuring that potential problems like clogged filters, refrigerant leaks, or electrical faults are addressed before they escalate. With our blend of expertise, advanced tools, and customer-first service, we are the trusted choice for AC repair services in Dubai.</p>
+                    <p className="my-4">Every project comes with unique requirements, which is why we deliver customized electrical installations that fit your property perfectly. From advanced smart-home systems to energy-efficient office setups, our electricians bring expertise and precision to every task. We focus on durability, efficiency, and safety, ensuring that your installation not only works today but remains reliable for years to come.</p>
+                    {/* <p className="my-4">Our team also offers preventive checks during repairs, ensuring that potential problems like clogged filters, refrigerant leaks, or electrical faults are addressed before they escalate. With our blend of expertise, advanced tools, and customer-first service, we are the trusted choice for AC repair services in Dubai.</p> */}
 
                     
                     </div>

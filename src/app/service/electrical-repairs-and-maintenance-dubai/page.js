@@ -2,9 +2,8 @@ import Image from "next/image";
 import Link from "next/link";
 
 
-export default function ResidentialHVACServices() {
+export default function CommercialHVACServices() {
   return (
-    
     <>
 <div className="breatcumb-area d-flex align-items-center">
     <div className="container">
@@ -12,11 +11,11 @@ export default function ResidentialHVACServices() {
             <div className="col-lg-12">
                 <div className="breatcumb-content text-center">
                     <div className="breatcumb-title">
-                        <h2>Residential HVAC Services</h2>
+                        <h2>Electrical Repairs & Maintenance Dubai</h2>
                     </div>
                     <div className="breatcumb-content-text">
                         <ul>
-                            <li><Link href="/">home</Link> <i className="fas fa-angle-right"></i> <span>Residential HVAC Services</span></li>
+                            <li><Link href="/">home</Link> <i className="fas fa-angle-right"></i> <span>Commercial HVAC Services</span></li>
                         </ul>
                     </div>	
                 </div>
@@ -41,21 +40,21 @@ export default function ResidentialHVACServices() {
                     <img src="/assets/images/slider/slider7.png" alt="" className="w-100"/>
                     
                     <div className="elementor-widget-title1 mt-5">
-                        <h2 className="main_heading">Residential HVAC Services</h2>
-                        <h4 className="sub_heading">1.Reliable Residential HVAC Installation</h4>
+                        <h2 className="main_heading">Electrical Repairs & Maintenance Dubai</h2>
+                        <h4 className="sub_heading">1. Comprehensive Emergency Electrical Repairs</h4>
 
-        <p className="my-4">A well-designed HVAC system is the backbone of home comfort, especially in Dubai’s hot climate. Our residential HVAC installation services cover everything from cooling systems to heating units and ventilation, ensuring a perfect balance of temperature and air quality. Whether you need a completely new system for a villa, an apartment, or a townhouse, we design and install solutions tailored to your space. </p>
-        <p className="my-4">From air conditioners and heat pumps to ductwork and thermostats, every component is fitted with precision. Our technicians make sure your system is energy-efficient, compliant with safety standards, and capable of handling Dubai’s demanding weather conditions. With our professional installation, you can enjoy year-round comfort while saving on long-term utility bills.</p>
+        <p className="my-4">Electrical faults can escalate into dangerous hazards if left unresolved. Our emergency electrical repair services provide immediate relief for issues like sudden blackouts, exposed wiring, and faulty outlets. We quickly restore safety and functionality, preventing potential fire hazards and costly damages. We also offer specialized circuit breaker repair services, ensuring your power system is evenly distributed and free from overload risks.</p>
+        <p className="my-4">Every repair is carried out with precision and care, restoring normal operation quickly while safeguarding your property from further damage.</p>
 
-				<h4 className="sub_heading">2.Professional Residential HVAC Repair</h4>
+				<h4 className="sub_heading">2. Reliable Repairs for Wiring, Sockets, and Switches</h4>
 
-				<p className="my-4">Even the most reliable HVAC systems can develop issues over time, from minor performance drops to complete breakdowns. Our residential HVAC repair services are designed to get your system back up and running quickly and efficiently. Whether it’s weak airflow, strange noises, thermostat malfunctions, or sudden cooling failures, we provide accurate diagnostics and effective repairs. </p>
-                <p className="my-4">We also specialize in replacing faulty parts, repairing ducts, fixing leaks, and recalibrating thermostats for optimal performance. With fast response times and skilled technicians, we ensure minimal disruption to your daily routine. Our focus is not only on fixing the immediate issue but also on preventing recurring problems, making us a trusted partner for long-lasting comfort and reliability.</p>
+				<p className="my-4">Faulty wiring and broken outlets may seem minor but can lead to major electrical hazards if ignored. Our electrical wiring repair services replace or restore damaged systems, ensuring they comply with the latest safety standards. For homes and offices experiencing malfunctioning switches or sockets, we provide expert switch repair and socket repair, restoring essential functionality without delay.</p>
+                <p className="my-4">By using high-quality materials and modern techniques, we guarantee repairs that are durable, reliable, and safe. From small faults to major rewiring, our electricians ensure long-term efficiency for your property.</p>
                     
-                    <h4 className="sub_heading">3.Complete Residential HVAC Maintenance Solutions</h4>
+                    <h4 className="sub_heading">3. Preventive Electrical Maintenance for Homes and Buildings</h4>
 
-                    <p className="my-4">Just like any other major system in your home, your HVAC requires routine care to perform at its best. Our residential HVAC maintenance services include cleaning filters, inspecting ductwork, checking refrigerant levels, and testing electrical connections to ensure everything works smoothly. We also offer preventive maintenance plans that help identify issues before they turn into expensive repairs. </p>
-                    <p className="my-4">Regular servicing extends the lifespan of your system, improves indoor air quality, and keeps energy costs under control. For homes in Dubai, where ACs run almost year-round, this is especially important. In addition to cooling, we also handle residential heating services for properties that require them, ensuring your home stays comfortable in every season. By combining expertise with attention to detail, we make sure your HVAC system runs efficiently, safely, and reliably.</p>
+                    <p className="my-4">Preventing breakdowns is always better than fixing them. Our preventive electrical maintenance solutions keep your systems running smoothly, lowering the chances of sudden failures and costly emergency repairs. We provide building electrical maintenance for residential complexes, offices, and commercial buildings. Services include circuit inspections, safety testing, equipment calibration, and preventive upgrades.</p>
+                    <p className="my-4">By staying proactive, you reduce downtime, save on repairs, and improve energy efficiency. Whether it’s a private residence or a large building, our maintenance solutions ensure your systems remain safe, efficient, and compliant with all safety codes.</p>
 
                     
                     </div>

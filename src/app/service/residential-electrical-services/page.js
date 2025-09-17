@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 
-export default function ACMaintenanceAndAMCContracts() {
+export default function ACInstallationAndReplacement() {
   return (
     <>
 <div className="breatcumb-area d-flex align-items-center">
@@ -11,11 +11,11 @@ export default function ACMaintenanceAndAMCContracts() {
             <div className="col-lg-12">
                 <div className="breatcumb-content text-center">
                     <div className="breatcumb-title">
-                        <h2>AC Maintenance & AMC Contracts</h2>
+                        <h2>Residential Electrical Services</h2>
                     </div>
                     <div className="breatcumb-content-text">
                         <ul>
-                            <li><Link href="/">home</Link> <i className="fas fa-angle-right"></i> <span>AC Maintenance & AMC Contracts</span></li>
+                            <li><Link href="/">home</Link> <i className="fas fa-angle-right"></i> <span>AC Installation & Replacement</span></li>
                         </ul>
                     </div>	
                 </div>
@@ -40,21 +40,21 @@ export default function ACMaintenanceAndAMCContracts() {
                     <img src="/assets/images/slider/slider7.png" alt="" className="w-100"/>
                     
                     <div className="elementor-widget-title1 mt-5">
-                        <h2 className="main_heading">AC Maintenance & AMC Contracts</h2>
-                        <h4 className="sub_heading">1.Professional AC Maintenance Services in Dubai</h4>
+                        <h2 className="main_heading">Residential Electrical Services</h2>
+                        <h4 className="sub_heading">1. Reliable Residential Electrical Installations and Repairs</h4>
 
-        <p className="my-4">Keeping your air conditioning system in top shape is just as important as choosing the right unit. Our AC maintenance Dubai services are designed to ensure your system operates at maximum efficiency throughout the year. Routine AC maintenance not only improves cooling performance but also extends the lifespan of your unit, reduces electricity consumption, and prevents sudden breakdowns.</p>
-        <p className="my-4">From inspecting electrical components and checking refrigerant levels to lubricating moving parts and testing airflow, our technicians leave no detail overlooked. Whether it’s for a residential property or a large commercial building, our maintenance services ensure your AC delivers consistent cooling even during the peak of summer.</p>
+        <p className="my-4">Every home depends on a safe and reliable electrical system, which is why our residential electrical services cover everything from brand-new installations to specialized repairs. Our team of skilled electricians is experienced in residential electrical installation, handling everything from structured wiring, distribution panels, lighting layouts, to appliance and device connections. We ensure that every installation is not only functional but also compliant with DEWA safety regulations, giving homeowners complete confidence in the long-term reliability of their systems.</p>
+        <p className="my-4">Electrical breakdowns at home can be frustrating and dangerous. With our home electrical repair services, we quickly diagnose and resolve issues such as short circuits, faulty switches, tripping circuit breakers, or malfunctioning sockets. We also provide access to an emergency residential electrician, ensuring that even sudden and unexpected failures are handled promptly. From minor household fixes to large-scale electrical installations, we provide homeowners with solutions that prioritize both safety and efficiency.</p>
 
-				<h4 className="sub_heading">2.Preventive Maintenance & Annual AMC Contracts</h4>
+				<h4 className="sub_heading">2. Comprehensive Residential Electrical Maintenance Solutions</h4>
 
-				<p className="my-4">Unexpected breakdowns can be stressful and costly, which is why we offer tailored AC AMC services (Annual Maintenance Contracts) for both homes and businesses. These contracts provide scheduled servicing, inspections, and priority support, giving you peace of mind that your system is always protected. As part of our preventive electrical maintenance approach, we identify potential issues early, like worn-out parts, clogged filters, or weak airflow and fix them before they become major problems. </p>
-                <p className="my-4">Our AMC packages also include AC filter cleaning Dubai, coil washing, thermostat calibration, and efficiency checks to keep your unit running smoothly. With our annual maintenance contracts, you can avoid emergency repairs, lower utility bills, and ensure a comfortable indoor environment all year round.</p>
+				<p className="my-4">Maintaining your electrical system is just as important as installing it correctly. Our residential electrical maintenance programs are designed to prevent unexpected failures, reduce energy waste, and extend the lifespan of your home’s system. We conduct routine inspections, load testing, and safety checks while replacing worn-out components before they cause serious problems. Regular preventive maintenance helps reduce long-term costs by preventing costly emergencies, lowers electricity bills through energy efficiency, and ensures full compliance with safety standards.</p>
+                <p className="my-4">Whether you’re scheduling periodic checks or upgrading outdated electrical systems, our maintenance solutions are tailored to meet your home’s specific needs. By focusing on reliability and safety, we ensure your household remains comfortable, functional, and secure year-round.</p>
                     
-                    <h4 className="sub_heading">3.Air Duct Cleaning & Air Quality Services</h4>
+                    <h4 className="sub_heading">3. Dedicated Emergency Services for Peace of Mind</h4>
 
-                    <p className="my-4">Clean air ducts are vital for both cooling efficiency and healthy indoor air. Our specialized AC duct cleaning Dubai services remove dust, dirt, allergens, and bacteria that build up inside duct systems over time. Using advanced equipment, we provide thorough air duct cleaning services Dubai that not only improve airflow but also reduce health risks like allergies and respiratory problems.</p>
-                    <p className="my-4">In addition to ducts, we provide AC filter cleaning, ensuring your system circulates clean, fresh air. Our HVAC duct cleaning Dubai team caters to residential apartments, villas, and large commercial facilities, improving indoor air quality while boosting the overall performance of your cooling system. By combining duct cleaning with regular maintenance, we create a safer, healthier, and more energy-efficient environment for your home or business.</p>
+                    <p className="my-4">Electrical problems can strike without warning, which is why our emergency residential electrician services are available 24/7 to provide immediate solutions. From sudden power outages, sparking sockets, to dangerous tripped breakers in the middle of the night, our team is always on standby. We arrive promptly, identify the root cause, and provide not just temporary relief but permanent, reliable repairs.</p>
+                    <p className="my-4">Our commitment to safety and professionalism means your family can rest easy knowing that emergencies will be handled with speed and expertise. For complete residential electrical services, we deliver a combination of care, dependability, and technical excellence that sets us apart.</p>
 
                     
                     </div>
