@@ -37,7 +37,7 @@ export default function ACInstallationAndReplacement() {
             <div className="col-lg-12 col-md-6 col-sm-12">
                 <div className="widget-service-thumb-detials">
                 
-                    <img src="/assets/images/slider/slider7.png" alt="" className="w-100"/>
+                    <img src="/assets/images/electric-10.jpg" alt="" className="w-100"/>
                     
                     <div className="elementor-widget-title1 mt-5">
                         <h2 className="main_heading">Residential Electrical Services</h2>

@@ -151,7 +151,7 @@ export default function Home() {
 			</div>
 			<div className="col-lg-6 col-sm-12">
 				<div className="dreamit-about-thumb">
-					<img src="/assets/images/about/about.png" alt=""/>
+					<img src="/assets/images/Electric-6.jpg" alt=""/>
 				</div>
 			</div>
 		</div>
