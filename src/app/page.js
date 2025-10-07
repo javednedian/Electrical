@@ -294,7 +294,7 @@ export default function Home() {
 		<div className="row">
 			<div className="col-lg-6 col-md-6 col-sm-12">
 				<div className="why-choose-us-thumb">
-					<img src="/assets/images/resource/wch.jpg" alt=""/>
+					<img src="/assets/images/electric-8.jpg" alt=""/>
 				</div>
 			</div>
 			<div className="col-lg-6 col-md-6 col-sm-12 left-why-choose-us">
@@ -423,7 +423,7 @@ export default function Home() {
 <!--==================================================-->
 <!-- Start dreamit Blog Area -->
 <!--==================================================--> */}
-<div className="blog_area">
+{/* <div className="blog_area">
 	<div className="container">
 		<div className="row">
 			<div className="col-lg-12 col-sm-12">
@@ -599,7 +599,7 @@ export default function Home() {
 			</div>
 		</div>
 	</div>
-</div>
+</div> */}
 {/* <!--==================================================-->
 <!-- End dreamit Blog Area -->
 <!--==================================================--> */}

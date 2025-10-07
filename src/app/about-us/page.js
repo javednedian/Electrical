@@ -37,7 +37,7 @@ export default function AboutUs() {
 		<div className="row">
 			<div className="col-lg-6 col-md-6 col-sm-12">
 				<div className="dreamit-about-thumb">
-					<img src="/assets/images/about/about2.png" alt=""/>
+					<img src="/assets/images/Electric-1.jpg" alt="" style={{width:500, height:400}}/>
 				</div>
 			</div>	
 			<div className="col-lg-6 col-md-6 col-sm-12">

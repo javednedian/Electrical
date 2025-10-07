@@ -145,7 +145,7 @@ export default function RootLayout({ children }) {
 							</ul>
 						</li>
 						
-						<li><Link href="/blogs">Blogs</Link></li>
+						{/* <li><Link href="/blogs">Blogs</Link></li> */}
 						
 						<li><Link href="/contact-us">Contact</Link></li>
 					</ul>
